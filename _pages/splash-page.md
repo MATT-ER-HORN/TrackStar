@@ -17,31 +17,58 @@ header:
       url: "https://www.tindie.com/stores/trackstar/"
 excerpt: Compact and open-source mount for astrophotography and timelapse panoramas
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: 
 feature_row:
   - image_path: /assets/images/splash/features.png
-    title: "Features"
+    title: "Features:"
     excerpt: "
-	*6+ hour battery life 
-	*USB rechargeable 
-	*Bluetooth App Control 
-	*Powerful motion due to 360:1 gearing and NEMA 14 stepper
-	"
+		* 4+ hour battery life
+		
+		* USB rechargeable
+		
+		* Bluetooth App Control
+		
+		* 360:1 ratio, NEMA 14 stepper 
+		
+		* Laser based polar alignment
+		
+		
+			"
     url: "#test-link"
-    btn_label: "Read More"
+    btn_label: "See More"
     btn_class: "btn--primary"
   - image_path: /assets/images/building.jpg
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    title: "Build Instructions:"
+    excerpt: "Detailed buid instruction including:
+	
+		* Resin and FDM printing instructions
+		
+		* Installing bearings and inserts
+		
+		* Installing or updating firmware
+		
+		* Suggestions for buidling from scratch
+		
+		`"
     url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--secondary"
-  - image_path: /assets/splash/feat1-3.jpg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    btn_label: "Build it!"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/GalleryM42.jpg
+    title: "Gallery"
+    excerpt: "View some images taken Trackstar including:
+	
+		* Astrophotos
+		
+		* Timelapses 
+		<br />
+		
+		<br /> 
+		<br /> 
+		
+		"
     url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--success"
+    btn_label: "View Images"
+    btn_class: "btn--primary"
 
 ---
 
